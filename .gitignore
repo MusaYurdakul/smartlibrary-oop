@@ -1,0 +1,7 @@
+# Derlenmis dosyalar
+out/
+*.class
+
+# IDE
+.idea/
+*.iml
